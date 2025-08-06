@@ -1,0 +1,22 @@
+html{
+  background-color: rgb(255, 255, 255);
+  position: 100%;
+  overflow-x: hidden;
+}
+
+.Barralateral{
+    width: 15%;
+    height: 100%;
+    background-color: #637D92;
+    position: absolute;
+top: 0px;
+left: 0px;}
+.Logolateral{
+    width: 80px;
+    height: 80px;
+    clip-path:circle();
+    background-color: black;
+    right: 0px;
+    border-radius: 50px;
+}
+    
