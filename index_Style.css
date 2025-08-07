@@ -1,6 +1,12 @@
 html{
+    overflow: hidden;
     position:100%;
+    }
+
+body{
     background-image: url(IMG_6082.JPG) ;
-background-size: auto;}
+background-size: contain;
+
+}
 
     
