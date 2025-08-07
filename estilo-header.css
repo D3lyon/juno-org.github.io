@@ -34,7 +34,7 @@ h1{
 
 .quadrado-header{
   background-color:#0D1F2D;
-  width:100%;
+  width:120%;
   height: 120px; 
   align-items: center;
   box-sizing: 10;
@@ -44,7 +44,7 @@ h1{
 }
 .quadrado-header2{
   background-color:#778086;
-  width:100%;
+  width:120%;
   height: 138px; 
   align-items: center;
   box-sizing: 10;
