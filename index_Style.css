@@ -8,7 +8,13 @@
 @media screen and (min-width:992px) {
     html{ overflow-x: hidden;
     overflow-y: hidden;
-     background-image: url(IMG_6082.JPG) ;
     position:100%}
+
+    img{
+         background-image: url(IMG_6082.JPG) ;
+         background-repeat: no-repeat;
+        background-size:cover;
+        position: 100%;
+    }
 
 }
