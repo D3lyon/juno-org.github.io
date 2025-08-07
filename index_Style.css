@@ -1,18 +1,6 @@
-@media screen and (max-width:992px) 
-{html{ overflow-x: hidden;
+html{ overflow-x: hidden;
     overflow-y: hidden;
-     background-image: url(IMG_6082.JPG) ;
-    background-repeat: no-repeat;
-    background-size:cover;
-}}
-@media screen and (min-width:992px) {
-    html{ overflow-x: hidden;
-    overflow-y: hidden;
-    position:100%}
+    position:100%;
+    background-image: url(IMG_6082.JPG) ;}
 
-    img{
-         background-image: url(IMG_6082.JPG) ;
-         
-    }
-
-}
+    
