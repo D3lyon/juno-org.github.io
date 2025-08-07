@@ -1,23 +1,8 @@
 @media screen and (max-width:992px) 
-html{ overflow-x: hidden;
+{html{ overflow-x: hidden;
     overflow-y: scroll;
 position:100%;
 }
-
-
-img{
-    background-image: url(IMG_6082.JPG) ;
-    width:50%;
-    height: 113%;
-   position: absolute;
-    background-size: cover;
-    top: 0px;
-    background-repeat: no-repeat;
-    object-fit: cover;
-    bottom: 0%;
-}
-
-#imagem-terreo{ object-position:50% 0%;}
 
 h4{
     width: 235px;
@@ -164,8 +149,8 @@ border-color: transparent;}
 background-color: transparent;
 border-color: transparent;}
 
-
-@media screen and (min-width:992px) 
+}
+@media screen and (min-width:992px) {
 html{ overflow-x: hidden;
     overflow-y: scroll;
 position: 100%;
@@ -333,3 +318,4 @@ border-color: transparent;}
 
 .botão:focus{ color: white;
 outline: none;}
+}
