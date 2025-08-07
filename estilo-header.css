@@ -1,11 +1,8 @@
 @media screen and (max-width:992px){
   html{
-    background-image: url(IMG_6082.JPG) ;
-    background-repeat: no-repeat;
-    background-size: cover;
     position:100%
   }
-  #imagem-terreo{ object-position:0% 0%;}
+  
 }
 
 @media screen and (min-width:992px)
