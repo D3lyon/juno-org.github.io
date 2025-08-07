@@ -3,7 +3,7 @@
     overflow-y: hidden;
      background-image: url(IMG_6082.JPG) ;
     background-repeat: no-repeat;
-    background-size:contains;
+    background-size:contain;
 position:100%;
 }
 
