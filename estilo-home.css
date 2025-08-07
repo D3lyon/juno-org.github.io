@@ -1,10 +1,9 @@
 @media screen and (max-width:992px) 
 {html{ overflow-x: hidden;
-    overflow-x: hidden;
     overflow-y: hidden;
      background-image: url(IMG_6082.JPG) ;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:contains;
 position:100%;
 }
 
