@@ -1,4 +1,4 @@
-@media screen (max-width:992px) 
+@media screen and (max-width:992px) 
 html{ overflow-x: hidden;
     overflow-y: scroll;
 position:100%;
@@ -165,7 +165,7 @@ background-color: transparent;
 border-color: transparent;}
 
 
-@media screen (min-width:992px) 
+@media screen and (min-width:992px) 
 html{ overflow-x: hidden;
     overflow-y: scroll;
 position: 100%;
