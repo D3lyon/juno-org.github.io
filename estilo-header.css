@@ -1,4 +1,79 @@
+@media screen and (max-width:992px)
+html{
+  background-color: rgb(255, 255, 255);
+  position: 120%;
+  overflow-x: hidden;
+}
+h3{
+  color: #ffffff;
+  position: relative;
+  z-index: 1;
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: lighter;
+  font-size: 50px;
+  z-index: 1;
+  text-align: center;
+  left: 40px;
+  top: -115px
+  }
+h1{
+  color: #ffffff;
+  font-size: 50px;
+  font-family: "Michroma", sans-serif;
+  font-weight:lighter;
+  font-style: regular;
+  text-align: center;
+  position:relative;
+  z-index: 1;
+  top: 25px;
+  right: 112px;
 
+}
+
+.quadrado-header{
+  background-color:#0D1F2D;
+  width:100%;
+  height: 120px; 
+  align-items: center;
+  box-sizing: 10;
+  position: absolute;
+  top:0px;
+  background: linear-gradient(90deg,#0D1F2D,#637D92,#637D92,#0D1F2D);
+}
+.quadrado-header2{
+  background-color:#778086;
+  width:100%;
+  height: 138px; 
+  align-items: center;
+  box-sizing: 10;
+  position: absolute;
+  top:0px;
+  background: linear-gradient(90deg,#778794,#DBDBDB,#778794);
+}
+
+  *{margin: 0px;
+  padding: 0px;}
+
+  H2{color: #ffffff;
+  position: relative;
+  z-index: 1;
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 350;
+  font-style: lighter;
+  font-size: 50px;
+  z-index: 1;
+  text-align: center;
+  left: 112px;
+
+  top: -40px}
+
+  h1,h2{text-align: center;}
+
+
+@media screen and (min-width:992px)
 html{
   background-color: rgb(255, 255, 255);
   position: 100%;
