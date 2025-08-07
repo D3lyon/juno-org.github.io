@@ -1,7 +1,7 @@
 @media screen (max-width:992px) 
 html{ overflow-x: hidden;
     overflow-y: scroll;
-position: 50%;
+display:flexbox;
 }
 
 
